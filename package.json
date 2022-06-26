@@ -1,7 +1,7 @@
 {
   "name": "project-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple website to show some small projects. Created with JavaScript, HTML and CSS",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Patrick Hähnel",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.18.2",
