@@ -52,3 +52,27 @@ This template was created during my further education and certification as a Jav
 - sass
 - vinyl-buffer
 - vinyl-source-stream
+
+## Requirement
+
+Since automation takes place through gulp, gulp-cli must be installed.
+
+To install gulp-cli:
+
+```bash
+npm i gulp-cli -g
+```
+
+To install requirement modules:
+
+```bash
+npm install
+```
+
+To run:
+
+```bash
+npm start
+```
+
+> **Attention**: This project was created for personal purposes only and is therefore only used to present my learning progress with JavaScript, HTML, CSS and SCSS.
