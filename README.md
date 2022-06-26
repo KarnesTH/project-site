@@ -2,6 +2,8 @@
 
 This template was created during my further education and certification as a JavaScript software developer. It shows my level of knowledge and handling of the ES6 notation in JavaScript.
 
+> **Attention**: This project was created for personal purposes only and is therefore only used to present my learning progress with JavaScript, HTML, CSS and SASS.
+
 ## Used modules:
 
 ### dependencies:
@@ -75,4 +77,4 @@ To run:
 npm start
 ```
 
-> **Attention**: This project was created for personal purposes only and is therefore only used to present my learning progress with JavaScript, HTML, CSS and SCSS.
+> **Attention**: This project was created for personal purposes only and is therefore only used to present my learning progress with JavaScript, HTML, CSS and SASS.
