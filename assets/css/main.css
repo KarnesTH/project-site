@@ -13598,43 +13598,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   display: block;
 }
 
-.m-person-quotes .card-person {
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-}
-.m-person-quotes .card-person .card-content {
-  margin: 0 0 1rem;
-  padding: 1rem;
-  border-radius: 0.5rem;
-  background-color: rgba(239, 239, 239, 0.2);
-}
-.m-person-quotes .card-person .card-header {
-  overflow: hidden;
-  padding: 0;
-  position: relative;
-}
-.m-person-quotes .card-person .card-header::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  border: 10px solid rgba(239, 239, 239, 0.2);
-}
-.m-person-quotes .card-person .card-header img {
-  -webkit-transition: -webkit-transform 0.4s ease-in-out;
-  transition: -webkit-transform 0.4s ease-in-out;
-  transition: transform 0.4s ease-in-out;
-  transition: transform 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out;
-}
-.m-person-quotes .card-person .card-header:hover img, .m-person-quotes .card-person .card-header:focus img {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
-}
-
 .m-slider {
   height: 100%;
   width: 100%;
